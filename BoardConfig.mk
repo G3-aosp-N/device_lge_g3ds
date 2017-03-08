@@ -25,7 +25,7 @@ BOARD_CUSTOM_BT_CONFIG := device/lge/g3ds/bluetooth/vnd_g3.txt
 BOARD_HAVE_BLUETOOTH_BCM := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := crdroid_dualsim_defconfig
+TARGET_KERNEL_CONFIG := lineageos_dualsim_defconfig
 TARGET_REQUIRES_BUMP := true
 TARGET_KERNEL_HAVE_EXFAT := true
 TARGET_KERNEL_HAVE_NTFS := true
